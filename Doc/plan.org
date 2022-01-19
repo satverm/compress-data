@@ -5,3 +5,4 @@
  3. Do an analysis of whether to have a repeated large number of smaller groups or small number of larger patteen groups.
  4. Make a dictionary for these groups with just one item of each group.
  5. Them make a list of all items with just their codes. This list will be used to get back the file using the dictionary which stores actual data.
+ 6. First we will use the program for a small txt file and then use the same concept for any file.
